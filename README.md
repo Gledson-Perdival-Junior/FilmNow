@@ -1,6 +1,6 @@
 # 🎬 FilmNow
 
-**FilmNow** é uma aplicação em Java que simula um sistema de catálogo de filmes, operando totalmente via terminal. Através de menus interativos, o usuário pode visualizar, buscar e interagir com uma base de dados de filmes armazenada em arquivos.
+**FilmNow** é uma aplicação em Java que simula um sistema de catálogo de filmes, operando totalmente via terminal. Através de menus interativos, o usuário pode visualizar, buscar e interagir com uma base de dados de filmes.
 
 ## ✨ Funcionalidades
 
@@ -18,10 +18,10 @@
 ## ▶️ Como executar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Gledson-Perdival-Junior/FilmNow.git
-   cd FilmNow
-   
+```bash
+git clone https://github.com/Gledson-Perdival-Junior/FilmNow.git
+cd FilmNow
+````   
 Compile os arquivos:
 
 ````bash
