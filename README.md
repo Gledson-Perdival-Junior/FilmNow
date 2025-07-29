@@ -38,8 +38,8 @@ Obs: Certifique-se de ter a JDK instalada e adicionada ao PATH.
 ````bash
 FilmNow/
 ├── src/filmnow/
-│   ├── FilmNow.java       # Classe principal com o método main
-│   ├── Menu.java          # Interface de menu de texto
+│   ├── FilmNow.java       # Classe que manipula os filmes
+│   ├── MainFilmNow.java   # Classe principal com o método main
 │   ├── Filme.java         # Classe que representa os filmes
 │   └── (outros arquivos utilitários)
 ├── data/                  # Arquivos de dados de filmes
