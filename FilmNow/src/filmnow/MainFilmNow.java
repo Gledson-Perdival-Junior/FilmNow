@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * Interface com menus texto para manipular o sistema FilmNow.
  * 
- * @author eliane
+ * @author Gledson e Eliane 
  *
  */
 public class MainFilmNow {
