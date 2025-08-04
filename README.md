@@ -5,7 +5,7 @@
 ## ✨ Funcionalidades
 
 - 📃 Listagem de filmes
-- 🔍 Busca por título
+- ✅ Cadastro de novos filmes
 - 🧭 Navegação simples por menus de texto
 
 ## 🛠 Tecnologias
