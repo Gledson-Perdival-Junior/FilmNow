@@ -1,6 +1,6 @@
 # 🎬 FilmNow
 
-**FilmNow** é uma aplicação em Java que simula um sistema de catálogo de filmes, operando totalmente via terminal. Através de menus interativos, o usuário pode visualizar, buscar, interagir e adcionar filmes à base de dados de filmes.
+**FilmNow** é uma aplicação em Java que simula um sistema de catálogo de filmes, operando totalmente via terminal. Através de menus interativos, o usuário pode visualizar, buscar, interagir e adicionar filmes à base de dados de filmes.
 
 ## ✨ Funcionalidades
 
